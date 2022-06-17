@@ -1,6 +1,5 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
---
 
 ### Description
 Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
