@@ -3,10 +3,13 @@
 --
 
 ### Description
-Third team project. Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
+Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
 
 ### Requirements
 * Compilation for all tasks: `gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
+
+## Authors
+Ekene Okoli, David Adediji
 
 ## Monty program
 
